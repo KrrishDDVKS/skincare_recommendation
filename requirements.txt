@@ -17,3 +17,4 @@ IPython
 joblib
 mtcnn
 tf_keras
+cv2
