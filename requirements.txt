@@ -17,4 +17,4 @@ IPython
 joblib
 mtcnn
 tf_keras
-opencv-python
+opencv-python-headless
